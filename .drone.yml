@@ -19,7 +19,7 @@ name: go-1.15
 steps:
 
 - name: build
-  image: golang:1.15
+  image: golang:1.21
   commands:
   - go get
   - go build -v
