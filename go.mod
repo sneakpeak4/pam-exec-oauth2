@@ -12,7 +12,7 @@ require (
 	github.com/shimt/go-simplecli v0.0.4
 	github.com/spf13/afero v1.6.0 // indirect
 	github.com/spf13/viper v1.7.1 // indirect
-	golang.org/x/net v0.0.0-20210610132358-84b48f89b13b
+	golang.org/x/net v0.19.0
 	golang.org/x/sys v0.0.0-20210611083646-a4fc73990273 // indirect
 	google.golang.org/appengine v1.6.7
 	gopkg.in/ini.v1 v1.62.0 // indirect
