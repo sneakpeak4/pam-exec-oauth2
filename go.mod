@@ -1,7 +1,7 @@
 module github.com/shimt/pam-exec-oauth2
 
 require (
-	cloud.google.com/go v0.46.3
+	cloud.google.com/go v0.111.0
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
